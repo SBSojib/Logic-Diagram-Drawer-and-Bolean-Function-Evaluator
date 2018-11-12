@@ -1,0 +1,23 @@
+﻿Build started 11-Nov-18 11:11:48 AM.
+     1>Project "D:\ProjectCircuitSimulator\ProjectCircuitSimulator\ProjectCircuitSimulator.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         F:\Reading Meterials\Project\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ProjectCircuitSimulator.cpp
+         ProjectCircuitSimulator.cpp
+     1>d:\projectcircuitsimulator\projectcircuitsimulator\function.h(123): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\reading meterials\project\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>d:\projectcircuitsimulator\projectcircuitsimulator\function.h(342): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projectcircuitsimulator\projectcircuitsimulator\function.h(362): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projectcircuitsimulator\projectcircuitsimulator\function.h(371): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projectcircuitsimulator\projectcircuitsimulator\function.h(397): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projectcircuitsimulator\projectcircuitsimulator\function.h(413): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 f:\reading meterials\project\vc\include\stdlib.h(909) : see declaration of 'itoa'
+     1>d:\projectcircuitsimulator\projectcircuitsimulator\function.h(338): warning C4101: 'e' : unreferenced local variable
+       Link:
+         F:\Reading Meterials\Project\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ProjectCircuitSimulator\Debug\ProjectCircuitSimulator.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\ProjectCircuitSimulator\Debug\ProjectCircuitSimulator.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ProjectCircuitSimulator\Debug\ProjectCircuitSimulator.lib" /MACHINE:X86 Debug\ProjectCircuitSimulator.obj
+         Debug\stdafx.obj
+         ProjectCircuitSimulator.vcxproj -> D:\ProjectCircuitSimulator\Debug\ProjectCircuitSimulator.exe
+     1>Done Building Project "D:\ProjectCircuitSimulator\ProjectCircuitSimulator\ProjectCircuitSimulator.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.92
