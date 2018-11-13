@@ -1,4 +1,4 @@
-========================================================================
+
 # Summary:
 This Project is for evaluating Bolean Functions output and drawing logic diagram. It can evaluate the output of a Bolean function from the variables given value. When the user insert the function and its variable value and click on the output button, it will show the output value of the given function. And the second feature is a drawing tool. From the given list of different gates and some other tools the user can draw any logic diagram what he/she wants. This is a simple drawing tool. Here the basic logic gates have been used.
 # Feature:
